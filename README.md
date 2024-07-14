@@ -9,7 +9,7 @@
 - 🥅 <b> 2023 Goals: Sharpening logical, statistical, problem solving skills.</b>📚
 - ⚡ <b> Fun fact: Love Football. </b>
 
-### Resume (https://drive.google.com/file/d/1pu7joeycBsp4abugsA7VQGZTlv22Y_4y/view)
+### Resume [(https://drive.google.com/file/d/1pu7joeycBsp4abugsA7VQGZTlv22Y_4y/view)]
 
 <!--   my-skils -->
 
