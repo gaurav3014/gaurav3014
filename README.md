@@ -3,7 +3,7 @@
 <img align="center" alt="Cover" width="850px" src="https://github.com/iamsachinbagale/iamsachinbagale/blob/main/assets/cover.gif"/>
 
 
-## I'm a Data Science Enthusiast who enjoys to find insights from the data.
+## I'm a Data Scientist and AI Engineer who enjoys to find insights from the data.
 - 🔭 <b> Currently working on various Machine Learning, Deep Learning, Data Science projects. </b>
 - 🌱 <b> I'm learning something new every single day. </b>
 - 🥅 <b> 2023 Goals: Sharpening logical, statistical, problem solving skills.</b>📚
